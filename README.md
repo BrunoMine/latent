@@ -30,8 +30,8 @@ COMANDOS
 
 REQUISITOS
 
+- Minetest versão 0.4.14 ou superior
 - O jogo precisa estar compilado com RUN_IN_PLACE
-
 
 INSTALAR
 
