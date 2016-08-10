@@ -3,11 +3,11 @@ Latent v0.8-beta
 
 Por BrunoMine
 
-Um gestor de servidor de minetest
+Um verificador de LAG (Latency At Game) para servidores de minetest
 
 LICENÇA LGPL v3
 
-Gestor é um software livre; você pode redistribuí-lo e/ou 
+Latent é um software livre; você pode redistribuí-lo e/ou 
 modificá-lo dentro dos termos da Licença Pública Geral Menor GNU 
 como publicada pela Fundação do Software Livre (FSF); na versão 3 
 da Licença, ou (na sua opinião) qualquer versão.
