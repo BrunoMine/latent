@@ -35,10 +35,8 @@ REQUISITOS
 
 INSTALAR
 
-Esse mod verifica a latencia dos jogadores
-
-Modo de Usar (Linux):
 Defina a permissao 775 para o arquivo pingar.sh que está no mod
 Comando usado seria:
+
 $ chmod 775 pingar.sh
 
