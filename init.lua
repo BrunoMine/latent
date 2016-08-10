@@ -108,7 +108,6 @@ function ver_players_online(name)
 	local lag_server = get_max_lag()
 	local t = string.split(lag_server, ".")
 	lag_server = tonumber(t[1])
-	minetest.chat_send_all(texto)
 	minetest.show_formspec(name, "", "size[7,10]"..
 		"bgcolor[#080808BB;true]"..
 		"textlist[0,1.5;6.7,6;;"..texto..";0;true]"..
